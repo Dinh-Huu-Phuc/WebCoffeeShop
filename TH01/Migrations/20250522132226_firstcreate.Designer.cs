@@ -11,8 +11,8 @@ using TH01.Data;
 namespace TH01.Migrations
 {
     [DbContext(typeof(CoffeeshopDbContext))]
-    [Migration("20250422025902_seeddata")]
-    partial class seeddata
+    [Migration("20250522132226_firstcreate")]
+    partial class firstcreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

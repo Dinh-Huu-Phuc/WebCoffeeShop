@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,12 +90,8 @@
       "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\migrations\\20250422025411_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\migrations\\20250422025411_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\migrations\\20250422025902_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\migrations\\20250422025902_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|d:\\coffeeshop_th01\\th01-section1\\th01\\migrations\\20250522132226_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08809336-29D8-4E1B-B012-EE9C07BB84D6}|TH01\\TH01.csproj|solutionrelative:th01\\migrations\\20250522132226_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,15 +109,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T01:04:16.563Z"
+              "DocumentIndex": 22,
+              "Title": "20250522132226_firstcreate.cs",
+              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250522132226_firstcreate.cs",
+              "RelativeDocumentMoniker": "TH01\\Migrations\\20250522132226_firstcreate.cs",
+              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250522132226_firstcreate.cs",
+              "RelativeToolTip": "TH01\\Migrations\\20250522132226_firstcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:22:27.152Z"
             },
             {
               "$type": "Document",
@@ -137,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Product\\Detail.cshtml",
@@ -153,16 +149,16 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "TH01\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDcAAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-29T04:52:13.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Program.cs",
               "RelativeDocumentMoniker": "TH01\\Program.cs",
@@ -170,21 +166,19 @@
               "RelativeToolTip": "TH01\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T01:04:26.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T01:04:26.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CoffeeshopDbContext.cs",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Data\\CoffeeshopDbContext.cs",
               "RelativeDocumentMoniker": "TH01\\Data\\CoffeeshopDbContext.cs",
               "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Data\\CoffeeshopDbContext.cs",
               "RelativeToolTip": "TH01\\Data\\CoffeeshopDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T01:58:35.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T01:58:35.374Z"
             },
             {
               "$type": "Document",
@@ -194,14 +188,13 @@
               "RelativeDocumentMoniker": "TH01\\appsettings.json",
               "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\appsettings.json",
               "RelativeToolTip": "TH01\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T00:46:35.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:46:35.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Home\\Index.cshtml",
@@ -209,8 +202,31 @@
               "RelativeToolTip": "TH01\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T01:19:06.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T01:19:06.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TH01\\Models\\Product.cs",
+              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Models\\Product.cs",
+              "RelativeToolTip": "TH01\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:05:35.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TH01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T01:04:16.563Z"
             },
             {
               "$type": "Document",
@@ -238,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "TH01\\Models\\ErrorViewModel.cs",
@@ -250,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Home\\Privacy.cshtml",
@@ -262,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Product.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Shared\\_Product.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Shared\\_Product.cshtml",
@@ -322,18 +338,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TH01\\Models\\Product.cs",
-              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Models\\Product.cs",
-              "RelativeToolTip": "TH01\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T01:05:35.729Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/MSI/CoffeeShopDB/True/SqlTable/dbo.Products.sql",
@@ -343,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Views\\Product\\Shop.cshtml",
               "RelativeDocumentMoniker": "TH01\\Views\\Product\\Shop.cshtml",
@@ -364,30 +368,6 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T01:11:29.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20250422025411_FirstCreate.cs",
-              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250422025411_FirstCreate.cs",
-              "RelativeDocumentMoniker": "TH01\\Migrations\\20250422025411_FirstCreate.cs",
-              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250422025411_FirstCreate.cs",
-              "RelativeToolTip": "TH01\\Migrations\\20250422025411_FirstCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T02:54:11.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250422025902_seeddata.cs",
-              "DocumentMoniker": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250422025902_seeddata.cs",
-              "RelativeDocumentMoniker": "TH01\\Migrations\\20250422025902_seeddata.cs",
-              "ToolTip": "D:\\CoffeeShop_TH01\\TH01-Section1\\TH01\\Migrations\\20250422025902_seeddata.cs",
-              "RelativeToolTip": "TH01\\Migrations\\20250422025902_seeddata.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T02:59:02.744Z"
             },
             {
               "$type": "Document",
