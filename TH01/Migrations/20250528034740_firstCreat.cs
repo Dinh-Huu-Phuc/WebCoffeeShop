@@ -7,7 +7,7 @@
 namespace TH01.Migrations
 {
     /// <inheritdoc />
-    public partial class firstcreate : Migration
+    public partial class firstCreat : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
