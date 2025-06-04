@@ -24,8 +24,7 @@ namespace TH01.Controllers
 
         public RedirectToActionResult AddToShoppingCart(int pId)
         {
-            var product = productRepository.GetAllProducts().FirstOrDefault(p => p.Id ==
-pId);
+            var product = productRepository.GetAllProducts().FirstOrDefault(p => p.Id == pId);
             if (product != null)
             {
                 shoppingCartRepository.AddToCart(product);

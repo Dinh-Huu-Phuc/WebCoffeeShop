@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2L7sK6wKvVZPUN0I0IAbYNaTCRpshfQ68s0C0X/zuiY=",
+  "Hash": "E15O7TsIWkAm1a/2Ql/HoG4YxBNzrbOTzNa22FahlEA=",
   "Source": "TH01",
   "BasePath": "_content/TH01",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "TH01\\wwwroot",
       "Source": "TH01",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
       "SourceId": "TH01",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TH01",
       "RelativePath": "TH01#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "q1I+Uih0InZAg64xguUl00IfCakYibG9r04dEAI+26A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css"
+      "OriginalItemSpec": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
       "SourceId": "TH01",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TH01",
       "RelativePath": "TH01#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "q1I+Uih0InZAg64xguUl00IfCakYibG9r04dEAI+26A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css"
+      "OriginalItemSpec": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/bootstrap/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/bootstrap/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/bootstrap/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/dropdown/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dropdown\\css\\style.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/dropdown/js/navbar-dropdown#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/formoid/formoid.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\formoid\\formoid.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/anna-bratiychuk-3w2aurzeesu-unsplash-815x1223#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/brent-ninaber-vlpefxuqynm-unsplash-2000x1125#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/coffee-beans-2258839-960#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/coffee-icon-sign-symbol-design-free-png#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/giancarlo-duarte-rthw0pwclhw-unsplash-815x543#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/hashes#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hashes.json"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/jeremy-yap-jn-hagwe4yw-unsplash-815x1223#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/mbr-1920x1372#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\mbr-1920x1372.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/nathan-dumlao-nbjho6wmrww-unsplash-815x1223#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/images/tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/mobirise/css/mbr-additional#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\mobirise\\css\\mbr-additional.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/parallax/jarallax#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\parallax\\jarallax.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/parallax/jarallax#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\parallax\\jarallax.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/smoothscroll/smooth-scroll#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\smoothscroll\\smooth-scroll.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\css\\styles.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.eot"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.svg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.ttf"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.woff"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/socicon/fonts/socicon#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\socicon\\fonts\\socicon.woff2"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/theme/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\theme\\css\\style.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/theme/js/script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\theme\\js\\script.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons2/mobirise2#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "assets/ytplayer/index#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ytplayer\\index.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3041,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3062,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3083,10 +3083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3104,10 +3104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3125,10 +3125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3146,10 +3146,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3167,10 +3167,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -3188,10 +3188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3251,10 +3251,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3272,10 +3272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3293,10 +3293,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3314,10 +3314,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3335,10 +3335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3356,10 +3356,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -3377,10 +3377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3398,10 +3398,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3419,10 +3419,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TH01",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCoffeeShop\\TH01\\wwwroot\\",
+      "ContentRoot": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\",
       "BasePath": "_content/TH01",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3443,7 +3443,7 @@
   "Endpoints": [
     {
       "Route": "assets/bootstrap/css/bootstrap.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3480,7 +3480,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap.min.h05jfgqcqm.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3525,7 +3525,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-grid.min.6kgw83jnx0.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3570,7 +3570,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3607,7 +3607,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3644,7 @@
     },
     {
       "Route": "assets/bootstrap/css/bootstrap-reboot.min.vyr5dwdiv4.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3689,7 +3689,7 @@
     },
     {
       "Route": "assets/bootstrap/js/bootstrap.bundle.min.72xr75apkv.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3734,7 +3734,7 @@
     },
     {
       "Route": "assets/bootstrap/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3771,7 +3771,7 @@
     },
     {
       "Route": "assets/dropdown/css/style.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3808,7 +3808,7 @@
     },
     {
       "Route": "assets/dropdown/css/style.ezw0xklxsa.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3853,7 +3853,7 @@
     },
     {
       "Route": "assets/dropdown/js/navbar-dropdown.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3890,7 +3890,7 @@
     },
     {
       "Route": "assets/dropdown/js/navbar-dropdown.ou1l9jax80.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +3935,7 @@
     },
     {
       "Route": "assets/formoid/formoid.min.h1djovafqm.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3980,7 +3980,7 @@
     },
     {
       "Route": "assets/formoid/formoid.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\formoid\\formoid.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4017,7 +4017,7 @@
     },
     {
       "Route": "assets/images/anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4054,7 +4054,7 @@
     },
     {
       "Route": "assets/images/anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.s24g3ww3dz.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4099,7 +4099,7 @@
     },
     {
       "Route": "assets/images/brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4136,7 +4136,7 @@
     },
     {
       "Route": "assets/images/brent-ninaber-vlpefxuqynm-unsplash-2000x1125.t81rzzj807.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4181,7 @@
     },
     {
       "Route": "assets/images/coffee-beans-2258839-960.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4218,7 +4218,7 @@
     },
     {
       "Route": "assets/images/coffee-beans-2258839-960.u80d441fey.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4263,7 +4263,7 @@
     },
     {
       "Route": "assets/images/coffee-icon-sign-symbol-design-free-png.e6hb64a0ms.webp",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4308,7 +4308,7 @@
     },
     {
       "Route": "assets/images/coffee-icon-sign-symbol-design-free-png.webp",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4345,7 +4345,7 @@
     },
     {
       "Route": "assets/images/giancarlo-duarte-rthw0pwclhw-unsplash-815x543.4nnn2hitbv.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4390,7 +4390,7 @@
     },
     {
       "Route": "assets/images/giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4427,7 +4427,7 @@
     },
     {
       "Route": "assets/images/hashes.json",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4464,7 @@
     },
     {
       "Route": "assets/images/hashes.kcesd5dku3.json",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\hashes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4509,7 +4509,7 @@
     },
     {
       "Route": "assets/images/jeremy-yap-jn-hagwe4yw-unsplash-815x1223.1qcbj9sj10.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4554,7 +4554,7 @@
     },
     {
       "Route": "assets/images/jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4591,7 +4591,7 @@
     },
     {
       "Route": "assets/images/mbr-1920x1372.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4628,7 +4628,7 @@
     },
     {
       "Route": "assets/images/mbr-1920x1372.k8qfvv8u15.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4673,7 +4673,7 @@
     },
     {
       "Route": "assets/images/mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.9dp6fns23t.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4718,7 +4718,7 @@
     },
     {
       "Route": "assets/images/mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4755,7 +4755,7 @@
     },
     {
       "Route": "assets/images/nathan-dumlao-nbjho6wmrww-unsplash-815x1223.4ht9unzmak.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4800,7 +4800,7 @@
     },
     {
       "Route": "assets/images/nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4837,7 +4837,7 @@
     },
     {
       "Route": "assets/images/tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.cl5qxdls5g.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4882,7 +4882,7 @@
     },
     {
       "Route": "assets/images/tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4919,7 +4919,7 @@
     },
     {
       "Route": "assets/mobirise/css/mbr-additional.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4956,7 +4956,7 @@
     },
     {
       "Route": "assets/mobirise/css/mbr-additional.m66qt7ezf6.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5001,7 +5001,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5038,7 +5038,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5075,7 +5075,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.sfg2i9ym8u.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5120,7 +5120,7 @@
     },
     {
       "Route": "assets/parallax/jarallax.svvhc24haz.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\parallax\\jarallax.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5165,7 +5165,7 @@
     },
     {
       "Route": "assets/smoothscroll/smooth-scroll.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5202,7 @@
     },
     {
       "Route": "assets/smoothscroll/smooth-scroll.xecllo4r1k.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +5247,7 @@
     },
     {
       "Route": "assets/socicon/css/styles.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5284,7 +5284,7 @@
     },
     {
       "Route": "assets/socicon/css/styles.q5ohifxaxh.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5329,7 +5329,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.27jk9euy4c.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5374,7 +5374,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5411,7 +5411,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.ezso41dj61.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5456,7 +5456,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.fra8bms9kq.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5501,7 +5501,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.io54zb58lv.woff2",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5546,7 +5546,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5583,7 +5583,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5620,7 +5620,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5657,7 +5657,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.woff2",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5694,7 @@
     },
     {
       "Route": "assets/socicon/fonts/socicon.z9h5km60p3.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5739,7 +5739,7 @@
     },
     {
       "Route": "assets/theme/css/style.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5776,7 @@
     },
     {
       "Route": "assets/theme/css/style.d7i9gkmopj.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5821,7 +5821,7 @@
     },
     {
       "Route": "assets/theme/js/script.71lwiiseek.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5866,7 +5866,7 @@
     },
     {
       "Route": "assets/theme/js/script.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\theme\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5903,7 +5903,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.5r7bi6t3va.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5948,7 +5948,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5985,7 +5985,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.ct2ra37of6.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6030,7 +6030,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6067,7 +6067,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.igwwwv5ift.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6112,7 +6112,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.jjagmbzy88.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6157,7 +6157,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.krektuu3tu.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6202,7 +6202,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6239,7 +6239,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6276,7 +6276,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons2/mobirise2.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6313,7 +6313,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.7bx3d641d2.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6358,7 +6358,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.9oset78uoc.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6403,7 +6403,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6440,7 +6440,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6477,7 +6477,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.obhog2wled.eot",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6522,7 +6522,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.rpaymgc8wk.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6567,7 +6567,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6604,7 +6604,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.ttf",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6641,7 +6641,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.udrxcdyeok.svg",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6686,7 +6686,7 @@
     },
     {
       "Route": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.woff",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6723,7 +6723,7 @@
     },
     {
       "Route": "assets/ytplayer/index.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6760,7 +6760,7 @@
     },
     {
       "Route": "assets/ytplayer/index.p72ml4c0ho.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\assets\\ytplayer\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6805,7 +6805,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6850,7 +6850,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6887,7 +6887,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6932,7 +6932,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9189,7 +9189,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9226,7 +9226,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9271,7 +9271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9308,7 +9308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9353,7 +9353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9390,7 +9390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9435,7 +9435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9472,7 +9472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9517,7 +9517,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9554,7 +9554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9599,7 +9599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9636,7 +9636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9681,7 +9681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9718,7 +9718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9763,7 +9763,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9808,7 +9808,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9845,7 +9845,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9890,7 +9890,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9927,7 +9927,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9964,7 +9964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10001,7 +10001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10046,7 +10046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10091,7 +10091,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10128,7 +10128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10173,7 +10173,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10210,7 +10210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10255,7 +10255,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10292,7 +10292,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10337,7 +10337,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10374,7 +10374,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10419,7 +10419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10456,7 +10456,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10493,7 +10493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10538,7 +10538,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10583,7 +10583,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10620,7 +10620,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10665,7 +10665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10702,7 +10702,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10739,7 +10739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10776,7 +10776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10821,7 +10821,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10866,7 +10866,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10911,7 +10911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10956,7 +10956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10993,7 +10993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11038,7 +11038,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11075,7 +11075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11112,7 +11112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11149,7 +11149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11194,7 +11194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11239,7 +11239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11276,7 +11276,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11321,7 +11321,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11358,7 +11358,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11403,7 +11403,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11440,7 +11440,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11477,7 +11477,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11522,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11559,7 +11559,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11604,7 +11604,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11641,7 +11641,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11678,7 +11678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11723,7 +11723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11760,7 +11760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11805,7 +11805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11850,7 +11850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11895,7 +11895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11940,7 +11940,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11985,7 +11985,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12022,7 +12022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12067,7 +12067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12104,7 +12104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12149,7 +12149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12186,7 +12186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12231,7 +12231,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12268,7 +12268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12305,7 +12305,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12350,7 +12350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12387,7 +12387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12432,7 +12432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12469,7 +12469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12506,7 +12506,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12551,7 +12551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12596,7 +12596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12633,7 +12633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12678,7 +12678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12715,7 +12715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12760,7 +12760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12797,7 +12797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12834,7 +12834,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12879,7 +12879,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12916,7 +12916,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12961,7 +12961,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13006,7 +13006,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13043,7 +13043,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13088,7 +13088,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13133,7 +13133,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13170,7 +13170,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13207,7 +13207,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13252,7 +13252,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13289,7 +13289,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13334,7 +13334,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13371,7 +13371,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13416,7 +13416,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13453,7 +13453,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13498,7 +13498,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13535,7 +13535,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13572,7 +13572,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13617,7 +13617,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13654,7 +13654,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13699,7 +13699,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13744,7 +13744,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13781,7 +13781,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13826,7 +13826,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13863,7 +13863,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13908,7 +13908,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13945,7 +13945,7 @@
     },
     {
       "Route": "TH01.79e2yvi597.bundle.scp.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13990,7 +13990,7 @@
     },
     {
       "Route": "TH01.79e2yvi597.styles.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14035,7 +14035,7 @@
     },
     {
       "Route": "TH01.bundle.scp.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH01.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14072,7 +14072,7 @@
     },
     {
       "Route": "TH01.styles.css",
-      "AssetFile": "D:\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
+      "AssetFile": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TH01.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

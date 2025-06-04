@@ -17,105 +17,105 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TH01
 build_property.RootNamespace = TH01
-build_property.ProjectDir = D:\WebCoffeeShop\TH01\
+build_property.ProjectDir = D:\WebCoffeeShop\WebCoffeeShop\TH01\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\WebCoffeeShop\TH01
+build_property.MSBuildProjectDirectory = D:\WebCoffeeShop\WebCoffeeShop\TH01
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Home/Index.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Home/Privacy.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Orders/Checkout.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Orders/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Orders/CheckoutComplete.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Orders/CheckoutComplete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0Q29tcGxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Product/Detail.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Product/Shop.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Product/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Shared/Error.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Shared/_LoginPartial.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Shared/_Product.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Shared/_Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/ShoppingCart/Index.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/ShoppingCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/_ViewImports.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/_ViewStart.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/_ViewImports.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/_ViewStart.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebCoffeeShop/TH01/Views/Shared/_Layout.cshtml]
+[D:/WebCoffeeShop/WebCoffeeShop/TH01/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m2jg3rhzv3

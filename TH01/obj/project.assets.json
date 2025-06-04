@@ -8330,11 +8330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebCoffeeShop\\TH01\\TH01.csproj",
+      "projectUniqueName": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\TH01.csproj",
       "projectName": "TH01",
-      "projectPath": "D:\\WebCoffeeShop\\TH01\\TH01.csproj",
+      "projectPath": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\TH01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\WebCoffeeShop\\TH01\\obj\\",
+      "outputPath": "D:\\WebCoffeeShop\\WebCoffeeShop\\TH01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
