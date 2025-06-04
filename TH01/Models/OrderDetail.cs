@@ -1,5 +1,4 @@
-﻿using AspNetCoreGeneratedDocument;
-
+﻿
 namespace TH01.Models
 {
     public class OrderDetail

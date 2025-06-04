@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TH01.Models;
-
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace TH01.Data
 {
-    public class CoffeeshopDbContext:DbContext
+    public class CoffeeshopDbContext: IdentityDbContext
     {
         public CoffeeshopDbContext(DbContextOptions<CoffeeshopDbContext> options) :base(options)
         {
@@ -11,7 +11,7 @@ namespace TH01.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<ShoppingcartItem> ShoppingCartItems { get; set; }
         public DbSet<Order> Orders { get; set; }
-        public DbSet<OrderDetail> OrdersDetail { get; set; }
+        public DbSet<OrderDetail> OrdersDetails { get; set; }
         //seed data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
