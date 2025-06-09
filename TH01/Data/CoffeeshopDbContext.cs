@@ -12,10 +12,25 @@ namespace TH01.Data
         public DbSet<ShoppingcartItem> ShoppingCartItems { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderDetail> OrdersDetails { get; set; }
+        public DbSet<Contact> ContactMessages { get; set; }
+
         //seed data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Order>()
+            .Property(o => o.OrderTotal)
+            .HasColumnType("decimal(18, 2)"); // Ví dụ: 18 tổng số chữ số, 2 chữ số sau dấu thập phân
+
+            // Cấu hình cho Price trong OrderDetail
+            modelBuilder.Entity<OrderDetail>()
+                .Property(od => od.Price)
+                .HasColumnType("decimal(18, 2)");
+
+            // Cấu hình cho Price trong Product
+            modelBuilder.Entity<Product>()
+                .Property(p => p.Price)
+                .HasColumnType("decimal(18, 2)");
             modelBuilder.Entity<Product>().HasData(
             new Product
             {
